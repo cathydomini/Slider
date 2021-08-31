@@ -1,0 +1,29 @@
+
+.slider img{
+    width:400px;
+    height: 300px;
+    object-fit:cover;
+}
+
+.slider div {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-color:1 solid red;
+
+}
+
+.right-arrow{
+    position:absolute;
+    right:10%;
+    top:50%;
+    z-index: 10;
+}
+
+.left-arrow{
+    position: absolute;
+    left:10%;
+    top:50%;
+    z-index: 10;
+}

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render slider component 1`] = `
+<div>
+  <img
+    alt=""
+    src=""
+  >
+    img
+  </img>
+</div>
+`;
